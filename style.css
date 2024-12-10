@@ -1,0 +1,136 @@
+header {
+    background-color: #2c171c;
+    font-family: "Handlee", cursive;
+}
+
+.nav-item a {
+    color: #ffffff;
+}
+
+#boton-perfil {
+    background-color: #fbbaa4;
+}
+
+.nav-item a:hover {
+    color: #fbbaa4;
+}
+
+h1 {
+    font-family: "Andika", sans-serif;
+    color: black;
+}
+
+h2 {
+    font-family: "Signika", sans-serif;
+}
+
+h3 {
+    font-family: "Andika", sans-serif;
+}
+
+h5 {
+    font-family: "Signika", sans-serif;
+}
+
+h6 {
+    font-family: "Andika", sans-serif;
+}
+
+p {
+    font-family: "Didact Gothic", sans-serif;
+    text-align: justify;
+}
+
+button {
+    font-family: "Andika", sans-serif;
+}
+
+#app {
+    color: #557C55;
+}
+
+.boton-cv {
+    background-color: #557C55;
+    color: #F2FFE9;
+}
+
+.boton-cv:hover {
+    background-color: #b6d0a0;
+    color: #557C55;
+}
+
+.boton-cv a {
+    color: #F2FFE9;
+    text-decoration: none;
+    border: none;
+}
+
+.boton-cv a:hover {
+    color: #557C55;
+    text-decoration: none;
+}
+
+.caja-habilidades {
+    background-color: #fbbaa4;
+}
+.btn-proyecto {
+    background-color: #f9e5c0;
+    color:#2c171c;
+    border: 1px solid#2c171c;
+}
+.btn-proyecto a{
+    text-decoration: none;
+    color:#2c171c;
+}
+.btn-proyecto:hover {
+    background-color: #2c171c;
+    color: #f9e5c0;
+}
+.btn-proyecto a:hover{
+    background-color: #2c171c;
+    color: #f9e5c0;
+}
+.card .card-title{
+    color: #6e2234;
+}
+.card .card-subtitle{
+    color: #557C55;
+}
+.caja-testimonios{
+    background-color: #b6d0a0;
+}
+.border-0{
+background-color: #b6d0a0;
+}
+.btn-contacto{
+    background-color: #6e2234;
+    color: #f9e5c0;
+}
+.btn-contacto:hover{
+    background-color: #f9e5c0;
+    color: #6e2234;
+    border: 1px solid #6e2234;
+}
+#contacto{
+    color: #3f1a29;
+}
+footer{
+    background-color: #2c171c;
+}
+footer li a i{
+    background-color: #2c171c;
+    color: #ffffff;
+}
+footer li a i:hover{
+    color: #fbbaa4;
+}
+footer p{
+    color: white;
+}
+footer p a{
+    color: #ffffff;
+    text-decoration: none;
+}
+footer p a:hover{
+    color: #fbbaa4;
+}
